@@ -1,0 +1,14 @@
+.env
+backend/media/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.session
+backend/*.session-journal
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+node_modules/
+frontend/dist/
+.DS_Store
